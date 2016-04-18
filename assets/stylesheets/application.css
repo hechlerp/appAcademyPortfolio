@@ -3,7 +3,7 @@
 }
 
 canvas {
-  background-image: url("../assets/images/background.png");
+  background-image: url("../images/background.png");
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
