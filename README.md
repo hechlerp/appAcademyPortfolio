@@ -10,7 +10,7 @@
 
 ###Gameplay
 
-![gamplay]
+![gameplay]
 
 ###Technical Details
 
@@ -67,4 +67,4 @@
 
 
 [start_page]: ./assets/images/start_page.png
-[gamplay]: ./assets/images/gameplay.png
+[gameplay]: ./assets/images/gameplay.png
