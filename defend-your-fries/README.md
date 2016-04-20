@@ -12,6 +12,10 @@
 
 ![gameplay]
 
+In Defend Your Fries, your mission is to stop the hands of moochers from stealing all of your french fries by throwing them high enough in the air.
+
+The game is built using JavaScript and HTML5 Canvas. JavaScript handles all of the game logic and click events, which the canvas renders the game itself.
+
 ###Technical Details
 
 - If a user wants to fling a hand into the air, a few things are required. The game needs to know when the play clicked and released the mouse, as well as the positions and object clicked. The first step is to determine whether your mousedown click actually grabbed one of the hand sprites. Because the sprites are not separate objects from the canvas, I needed to determine whether any of the "thieves" were close enough to the mouse click event to be grabbed.
