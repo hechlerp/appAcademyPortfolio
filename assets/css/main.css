@@ -2239,7 +2239,8 @@
 		}
 
 		.icon > .label {
-			display: none;
+			font-size: 20px;
+      padding-left: 20px;
 		}
 
 		.icon.major {
